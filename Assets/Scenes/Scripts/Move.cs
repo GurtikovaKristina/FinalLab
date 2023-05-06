@@ -7,7 +7,7 @@ public class Move : MonoBehaviour
 {
     float timeIn = 4f;
     public Transform goal;
-    UnityEngine.AI.NavMeshAgent agent;
+    NavMeshAgent agent;
     Rigidbody rBody;
     bool startmove = false;
 

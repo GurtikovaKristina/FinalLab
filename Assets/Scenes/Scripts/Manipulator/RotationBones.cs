@@ -27,7 +27,6 @@ public class RotationBones : MonoBehaviour
         Vector3 mainR = new Vector3(0, (180 / 100) * (main.value * -360), -47);
         mainM.transform.localEulerAngles = mainR;
 
-
         Vector3 secondR = new Vector3(1, 0, (180 / 100) * (second.value * 160));
         secondM.transform.localEulerAngles = secondR;
 
