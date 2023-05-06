@@ -1,1 +1,2 @@
-# FinalLab
+# Gurtikova-FinalProject
+ 
